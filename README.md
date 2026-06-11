@@ -23,5 +23,5 @@ En este repositorio encontrarás:
 - Correo: Jepburitica@gmail.com
 
 ---
-⭐ ¡Gracias por visitar mi perfil!
+## ¡Gracias por visitar mi perfil!
 
